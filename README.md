@@ -65,10 +65,3 @@ to help solve problems for social good and improve the overall standard of livin
 
 ... [READ MORE](https://www.linkedin.com/in/ebenezer-aniyom-5a967a173)
 <!-- BLOG-POST-LIST:END -->
-
-<h3 align="center"> Talks in Data Science</h3>
-</p>
-<br />
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://drive.google.com/drive/u/0/folders/19bkHwNDbhN1UP6i76YJL0L8IHSONF4AY" alt="html5" width="500" height="500"/> </a>
-
