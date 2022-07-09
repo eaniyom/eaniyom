@@ -11,7 +11,7 @@ Python Programmer | Machine Learning Specialist | Data Scientist
 
 <h2 align="center">Sample Projects 💻</h2>
 
-[Lithology Identification and Classificatio](https://github.com/eaniyom/Reservior-Lithology-Identification/blob/master/Lithology%20Classification%20~%20Aniyom%20Ebenezer.ipynb)
+[Lithology Identification and Classification](https://github.com/eaniyom/Reservior-Lithology-Identification/blob/master/Lithology%20Classification%20~%20Aniyom%20Ebenezer.ipynb)
 
 [Cryptocurrency Price Prediction](https://github.com/eaniyom/Cryptocurrency-Prediction/blob/master/Crypto_Price_prediction_Eben-1.ipynb)
 
