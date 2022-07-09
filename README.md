@@ -17,11 +17,13 @@ Python Programmer | Machine Learning Specialist | Data Scientist
 
 [GPA Calculator](https://github.com/eaniyom/GPA-Calculator-with-Python/blob/main/GPA%20calculator.ipynb)
 
+[Prediction of Porosity and Permeability](https://github.com/eaniyom/Porosity-Permeability-Prediction/blob/master/Prediction%20of%20Porosity%20and%20Permeability.ipynb)
+
+
 
 
 **In Progress**
 * ROP Prediction
-* Prediction of Porosity and Permeability
 * Etc. 
 
 <h2 align="center">About me 😇</h2>
