@@ -6,7 +6,7 @@ Python Programmer | Machine Learning Specialist | Data Scientist
 </p>
 <br />
 
-<p>Data Scientist, using Python, SQL, Machine Learning, Ms Excel, and other tools to generate insights from data and provide good business solutions from data.</p>
+<p>Data Scientist, I use Python, SQL, Machine Learning, Ms Excel, and other tools to generate insights from data and provide good business solutions from data.</p>
 <br />
 
 <h2 align="center">Sample Projects 💻</h2>
