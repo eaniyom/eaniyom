@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hi welcome, I'm Ebenezer <img src="https://www.python.org/static/img/python-logo.png" alt="" width="100"></h1>
 </p>
 <p align="center">
-Python Programmer | Data Analyst | Data Scientist 
+Data Scientist || Green Energy Enthusiast || Petroleum Engineer 
 </p>
 <br />
 
