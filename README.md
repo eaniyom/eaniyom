@@ -23,8 +23,7 @@ Data Scientist || Green Energy Enthusiast || Petroleum Engineer
 
 
 **In Progress**
-* ROP Prediction
-* Etc. 
+* ROP Prediction 
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
