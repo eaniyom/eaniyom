@@ -30,7 +30,7 @@ Data Scientist || Green Energy Enthusiast || Petroleum Engineer
 Timezone: West African Time (WAT)
 </p>
 <br />
-<p>I am a Bachelor of Engineering student with more than one year of experience in Data Science and other relevant skills in Python programming language and Machine Learning, with major applications in the;
+<p>I am a Bachelor of Engineering degree holder in Petroleum Engineering with over two (2) years of experience in Data Science and other relevant skills in Python programming language and Machine Learning, with major applications in the;
   
 * Energy (Natural Gas, Oil and Gas, Renewal Energy etc.)
 * Education
