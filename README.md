@@ -19,7 +19,7 @@ Data Scientist || Green Energy Enthusiast || Petroleum Engineer
 
 [Prediction of Porosity and Permeability](https://github.com/eaniyom/Porosity-Permeability-Prediction/blob/master/Prediction%20of%20Porosity%20and%20Permeability.ipynb)
 
-
+[Recording Audio with Python: A Simple Guide](https://github.com/eaniyom/Audio-Record-with-Python)
 
 
 **In Progress**
