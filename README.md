@@ -11,6 +11,8 @@ Data Scientist || Green Energy Enthusiast || Petroleum Engineer
 
 <h2 align="center">Sample Projects 💻</h2>
 
+[Recording Audio with Python: A Simple Guide](https://github.com/eaniyom/Audio-Record-with-Python)
+
 [Lithology Identification and Classification](https://github.com/eaniyom/Reservior-Lithology-Identification/blob/master/Lithology%20Classification%20~%20Aniyom%20Ebenezer.ipynb)
 
 [Cryptocurrency Price Prediction](https://github.com/eaniyom/Cryptocurrency-Prediction/blob/master/Crypto_Price_prediction_Eben-1.ipynb)
@@ -19,7 +21,6 @@ Data Scientist || Green Energy Enthusiast || Petroleum Engineer
 
 [Prediction of Porosity and Permeability](https://github.com/eaniyom/Porosity-Permeability-Prediction/blob/master/Prediction%20of%20Porosity%20and%20Permeability.ipynb)
 
-[Recording Audio with Python: A Simple Guide](https://github.com/eaniyom/Audio-Record-with-Python)
 
 
 **In Progress**
